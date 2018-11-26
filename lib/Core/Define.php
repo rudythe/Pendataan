@@ -1,6 +1,6 @@
 <?php
 
-define('hostDB', 'localhost');
+define('hostDB', '192');
 define('userDB', 'sysdba');
 define('passwordDB', 'masterkey');
 define('LocDB', 'E:\Kerja\BITS\Programing\Junior\Database\THEDB.GDB');
